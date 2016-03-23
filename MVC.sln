@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{CA1350FB-8FC3-42A1-BE2B-E0F61535B9FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreDTO", "CoreDTO\CoreDTO.csproj", "{5A15B90F-7129-4213-B6ED-49CD37EDBD39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1350FB-8FC3-42A1-BE2B-E0F61535B9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1350FB-8FC3-42A1-BE2B-E0F61535B9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1350FB-8FC3-42A1-BE2B-E0F61535B9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1350FB-8FC3-42A1-BE2B-E0F61535B9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A15B90F-7129-4213-B6ED-49CD37EDBD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A15B90F-7129-4213-B6ED-49CD37EDBD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A15B90F-7129-4213-B6ED-49CD37EDBD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A15B90F-7129-4213-B6ED-49CD37EDBD39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

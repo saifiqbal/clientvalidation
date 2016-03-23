@@ -1,0 +1,142 @@
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\csc.exe
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\vbc.exe
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\VBCSCompiler.exe
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\MVC.dll.config
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\MVC.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\MVC.pdb
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Antlr3.Runtime.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\EntityFramework.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\EntityFramework.SqlServer.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Newtonsoft.Json.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Owin.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Helpers.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Mvc.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Optimization.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Razor.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.WebPages.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.WebPages.Razor.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\WebGrease.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Helpers.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Mvc.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Optimization.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Razor.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.WebPages.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.WebPages.Razor.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Antlr3.Runtime.pdb
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Newtonsoft.Json.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\EntityFramework.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\EntityFramework.SqlServer.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\obj\Debug\MVC.dll
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\obj\Debug\MVC.pdb
+c:\users\saif10p\documents\visual studio 2015\Projects\MVC\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+C:\Users\Saif10p\Documents\Visual Studio 2015\Projects\MVC\MVC\bin\CoreDTO.dll
+C:\Users\Saif10p\Documents\Visual Studio 2015\Projects\MVC\MVC\bin\CoreDTO.pdb
+D:\ClientValidation\clientvalidation\MVC\bin\roslyn\csc.exe
+D:\ClientValidation\clientvalidation\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ClientValidation\clientvalidation\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ClientValidation\clientvalidation\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ClientValidation\clientvalidation\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ClientValidation\clientvalidation\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ClientValidation\clientvalidation\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ClientValidation\clientvalidation\MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\ClientValidation\clientvalidation\MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\ClientValidation\clientvalidation\MVC\bin\roslyn\vbc.exe
+D:\ClientValidation\clientvalidation\MVC\bin\roslyn\VBCSCompiler.exe
+D:\ClientValidation\clientvalidation\MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\ClientValidation\clientvalidation\MVC\bin\MVC.dll.config
+D:\ClientValidation\clientvalidation\MVC\bin\MVC.dll
+D:\ClientValidation\clientvalidation\MVC\bin\MVC.pdb
+D:\ClientValidation\clientvalidation\MVC\bin\Antlr3.Runtime.dll
+D:\ClientValidation\clientvalidation\MVC\bin\CoreDTO.dll
+D:\ClientValidation\clientvalidation\MVC\bin\EntityFramework.dll
+D:\ClientValidation\clientvalidation\MVC\bin\EntityFramework.SqlServer.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.Google.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Newtonsoft.Json.dll
+D:\ClientValidation\clientvalidation\MVC\bin\Owin.dll
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.Helpers.dll
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.Mvc.dll
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.Optimization.dll
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.Razor.dll
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.WebPages.Deployment.dll
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.WebPages.dll
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.WebPages.Razor.dll
+D:\ClientValidation\clientvalidation\MVC\bin\WebGrease.dll
+D:\ClientValidation\clientvalidation\MVC\bin\CoreDTO.pdb
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.Helpers.xml
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.Mvc.xml
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.Optimization.xml
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.Razor.xml
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.WebPages.xml
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.WebPages.Deployment.xml
+D:\ClientValidation\clientvalidation\MVC\bin\System.Web.WebPages.Razor.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Antlr3.Runtime.pdb
+D:\ClientValidation\clientvalidation\MVC\bin\Newtonsoft.Json.xml
+D:\ClientValidation\clientvalidation\MVC\bin\EntityFramework.xml
+D:\ClientValidation\clientvalidation\MVC\bin\EntityFramework.SqlServer.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.Google.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ClientValidation\clientvalidation\MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ClientValidation\clientvalidation\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+D:\ClientValidation\clientvalidation\MVC\obj\Debug\MVC.dll
+D:\ClientValidation\clientvalidation\MVC\obj\Debug\MVC.pdb

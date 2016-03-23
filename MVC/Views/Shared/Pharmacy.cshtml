@@ -1,0 +1,74 @@
+﻿@model MVC.ViewModel.Pharmacy.PharmacyViewModel
+
+@using (Html.BeginForm("Pharmacy", "Intake", FormMethod.Post, new { id = "pharmacy-frm", enctype = "multipart/form-data" } ))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Pharmacy</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <div class="input-group">
+                @Html.EditorFor(model=>model.ZipCode, new { htmlAttributes = new { @class = "form-control",@placeholder="ZipCode or City" } })
+                @Html.ValidationMessageFor(model => model.ZipCode, null, new { style = "color:red" })
+                  @Html.EditorFor(model=>model.State, new { htmlAttributes = new { @class = "form-control", @placeholder = "State"} })
+                @Html.ValidationMessageFor(model => model.State, null, new { style = "color:red" })
+                
+                <span class="input-group-btn">
+                    <button class="btn btn-default" id="btnpharmacysearch" type="button">Search</button>
+                </span>
+            </div>
+            <div>
+                @*<img src='@Url.Content("~/Intake/ShowPicture")'/>
+
+                @*'@Url.Content("~/Controller/Hello")'*@
+
+
+                @*<img src='@Url.Action("ShowPicture")' alt="" />*@
+
+
+               <input type="file" name="ProfilePhoto" id="ProfilePhoto" multiple="multiple" />
+
+            </div>
+        </div>
+        </div>
+
+        <div>
+            @*@Html.ListBoxFor(model =>model.selectedpharmacy, (IEnumerable<SelectListItem>)Model.Pharmacies)*@
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" id="btnpharmacy" class="btn btn-default" />
+                    <button type="button" onclick="addloading(); removeLoading();">Reload</button>
+                </div>
+            </div>
+        </div>
+ 
+    <div style="height:200px;width:400px;overflow:auto;">
+        <div id="lstgroup" class="list-group">
+        @foreach (var items in Model.Pharmacies)
+        {
+            <a class="list-group-item" pharmacyid="@items.PharmacyID" pharmacyname="@items.PharmacyName">
+                <h4 class="list-group-item-heading">
+                   @items.PharmacyName
+                </h4>
+
+                <p class="list-group-item-text">
+                   @items.PharmacyAddress
+                </p>
+            </a>
+        }
+        </div>
+        </div>
+
+        }
+
+        <div>
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+
+        @section Script{
+
+
+
+        }

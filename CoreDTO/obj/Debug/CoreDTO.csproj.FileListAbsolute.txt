@@ -1,0 +1,9 @@
+C:\Users\Saif10p\Documents\Visual Studio 2015\Projects\MVC\CoreDTO\bin\Debug\CoreDTO.dll
+C:\Users\Saif10p\Documents\Visual Studio 2015\Projects\MVC\CoreDTO\bin\Debug\CoreDTO.pdb
+C:\Users\Saif10p\Documents\Visual Studio 2015\Projects\MVC\CoreDTO\obj\Debug\CoreDTO.dll
+C:\Users\Saif10p\Documents\Visual Studio 2015\Projects\MVC\CoreDTO\obj\Debug\CoreDTO.pdb
+D:\ClientValidation\clientvalidation\CoreDTO\bin\Debug\CoreDTO.dll
+D:\ClientValidation\clientvalidation\CoreDTO\bin\Debug\CoreDTO.pdb
+D:\ClientValidation\clientvalidation\CoreDTO\obj\Debug\CoreDTO.csprojResolveAssemblyReference.cache
+D:\ClientValidation\clientvalidation\CoreDTO\obj\Debug\CoreDTO.dll
+D:\ClientValidation\clientvalidation\CoreDTO\obj\Debug\CoreDTO.pdb
