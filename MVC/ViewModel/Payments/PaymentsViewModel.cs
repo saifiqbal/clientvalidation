@@ -18,10 +18,10 @@ namespace MVC.ViewModel.Payments
         [ValidateFile]
         public HttpPostedFileBase ProfilePhoto { get; set; }
         [Required(ErrorMessage ="Dob is required")]
-        [DataType(DataType.Date)]
-        [DisplayFormat(DataFormatString =
-           "{0:yyyy-MM-dd}",
-            ApplyFormatInEditMode = true)]
+        //[DataType(DataType.Date)]
+        //[DisplayFormat(DataFormatString =
+        //   "{0:yyyy-MM-dd}",
+        //    ApplyFormatInEditMode = true)]
         [FutureDate(ErrorMessage ="Future dates not allowed")]
         public DateTime? DateOfBirth { get; set; }
     }

@@ -96,6 +96,16 @@
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script>
 
+
+        var date_input=$('input[name="DateOfBirth"]'); //our date input has the name "date"
+        var container=$('.bootstrap-iso form').length>0 ? $('.bootstrap-iso form').parent() : "body";
+        var options={
+            format: 'mm/dd/yyyy',
+            container: container,
+            todayHighlight: true,
+            autoclose: true,
+        };
+        date_input.datepicker(options); //initiali110/26/2015 8:20:59 PM ze plugin
        
 
         @*$("#payments-frm").submit(function (e) {
@@ -127,9 +137,6 @@
 
 
             });*@
-
-
-        });
 
 </script>
 }
